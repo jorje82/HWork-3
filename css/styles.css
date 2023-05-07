@@ -145,6 +145,7 @@ img {
   margin-right: auto;
 }
 .hero-button {
+  display: block;
   font-family: var(--main-font);
   font-weight: 500;
   font-size: 16px;
